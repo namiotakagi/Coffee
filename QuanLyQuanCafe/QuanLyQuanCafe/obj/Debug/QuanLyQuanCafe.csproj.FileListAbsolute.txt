@@ -1,0 +1,49 @@
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmMain.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmLogin.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmManager.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmProfile.resources
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmMain.resources
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmManager.resources
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmProfile.resources
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmLogin.resources
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\personal\projects\Sources\Baitap\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmMain.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmManager.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmProfile.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmLogin.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\14HTH02\LT trên MT Window_C#\Thuc hanh\New\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmMain.resources
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmManager.resources
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmProfile.resources
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmLogin.resources
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Vinh Toan\Desktop\QuanLyQuanCafe_v2\QuanLyQuanCafe_v2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
